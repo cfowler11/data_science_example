@@ -1,0 +1,12 @@
+---
+title: "example"
+author: "Charlotte Fowler"
+date: "9/12/2019"
+output: html_document
+---
+
+```{r}
+samp=rnorm(100)
+length(samp)
+```
+
